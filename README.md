@@ -8,7 +8,7 @@
 - 🔭 Building desktop applications with **C# Windows Forms**
 - 🌱 Strong foundation in **C++ Data Structures & Algorithms**
 - 💡 Currently learning **SQL Server** to add database functionality to my apps
-- 🎯 Goal: Become a full-stack backend developer
+- 🎯 Goal: Become a Full-Stack Web Developer
 
 ---
 
