@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Basher Mohammed
 
-<!--
-**basheeralgunaid8-cmyk/basheeralgunaid8-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Backend Developer | C++ | C# | Data Structures
 
-Here are some ideas to get you started:
+## About Me
+- Building desktop apps with C# Windows Forms
+- Strong in C++ Data Structures & Algorithms
+- Learning SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [Small-Tech-Store](https://github.com/basheeralgunaid8-cmyk/Small-Tech-Store) - Laptop store app
+- [Pizza-Project](https://github.com/basheeralgunaid8-cmyk/Pizza-Project) - Pizza customization app
+- [Hash Table](https://github.com/basheeralgunaid8-cmyk/hash-table-with-chaining) - Data structure in C++
