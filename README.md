@@ -1,13 +1,15 @@
-# 👋 Hi, I'm Basher Mohammed
+# 👋 Hi, I'm Basher Mohammed (巴石)
 
+**Computer Science & Technology Student** at 西安石油大学 (Xi’an Shiyou University), China 🇨🇳  
 **Aspiring Backend Developer** | C++ • C# • Windows Forms • Data Structures
 
 ---
 
 ## 🚀 About Me
+- 🎓 Studying **Computer Science and Technology** in Xi’an, China
 - 🔭 Building desktop applications with **C# Windows Forms**
 - 🌱 Strong foundation in **C++ Data Structures & Algorithms**
-- 💡 Currently learning **SQL Server** to add database functionality to my apps
+- 💡 Currently learning **SQL Server** to add database functionality to my applications
 - 🎯 Goal: Become a Full-Stack Web Developer
 
 ---
@@ -32,27 +34,28 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Small-Tech-Store**](https://github.com/basheeralgunaid8-cmyk/Small-Tech-Store) | Laptop store simulation with device browsing, configuration customization, shopping cart, and order total calculation (tax + delivery) | C# WinForms |
-| [**Pizza-Project**](https://github.com/basheeralgunaid8-cmyk/Pizza-Project) | Pizza customization app - select size, crust, toppings, dining options with automatic price calculation | C# WinForms |
+| [**Small-Tech-Store**](https://github.com/basheeralgunaid8-cmyk/Small-Tech-Store) | Laptop store simulation with device browsing, customization, shopping cart, and order calculation | C# WinForms |
+| [**Pizza-Project**](https://github.com/basheeralgunaid8-cmyk/Pizza-Project) | Pizza customization app with automatic price calculation | C# WinForms |
+
+---
 
 ### C++ Data Structure Projects
 
 | Project | Description |
 |---------|-------------|
-| [**Hash Table with Chaining**](https://github.com/basheeralgunaid8-cmyk/hash-table-with-chaining) | Hash table implementation with collision resolution |
-| [**Minimum Spanning Tree**](https://github.com/basheeralgunaid8-cmyk/minimum-spanning-tree-kruskal) | MST using Kruskal's algorithm with Disjoint Set Union |
-| [**Circular Singly Linked List**](https://github.com/basheeralgunaid8-cmyk/circular-singly-linked-list) | Complete circular linked list implementation |
-| [**Student Management System**](https://github.com/basheeralgunaid8-cmyk/systemmanagement) | Student records system in C++ (console-based) |
+| [**Hash Table with Chaining**](https://github.com/basheeralgunaid8-cmyk/hash-table-with-chaining) | Hash table implementation with collision handling |
+| [**Minimum Spanning Tree**](https://github.com/basheeralgunaid8-cmyk/minimum-spanning-tree-kruskal) | Kruskal's algorithm using Disjoint Set Union |
+| [**Circular Singly Linked List**](https://github.com/basheeralgunaid8-cmyk/circular-singly-linked-list) | Circular linked list implementation |
+| [**Student Management System**](https://github.com/basheeralgunaid8-cmyk/systemmanagement) | Console-based student management system |
 | [**Algorithm Solutions Course 7**](https://github.com/basheeralgunaid8-cmyk/algorithm-solutions-course7) | 50+ algorithm problems solved in C++ |
 | [**Algorithm Solutions Course 8**](https://github.com/basheeralgunaid8-cmyk/algoritm-solutions-course-8) | Advanced algorithm implementations |
 
 ---
 
 ## 🔨 What I'm Working On
-
-- Adding **SQL Server database** to my C# Windows Forms apps
-- Building more desktop applications with C#
-- Solving algorithm problems in C++
+- Adding **SQL Server databases** to my C# applications
+- Building more desktop applications using C#
+- Practicing algorithms and problem solving in C++ and C#
 
 ---
 
@@ -69,4 +72,4 @@
 
 ---
 
-⭐️ **From Basher Mohammed** - Building projects one step at a time 🚀
+⭐️ From **Basher Mohammed (巴石)** — building projects one step at a time 🚀
