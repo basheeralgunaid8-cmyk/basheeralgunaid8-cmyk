@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Basher Mohammed (巴石)
+# I'm Basher Mohammed (巴石)
 
 **Computer Science & Technology Student** at 西安石油大学 (Xi’an Shiyou University), China 🇨🇳  
 **Aspiring Backend Developer** | C# • .NET • SQL Server • ADO.NET • C++
