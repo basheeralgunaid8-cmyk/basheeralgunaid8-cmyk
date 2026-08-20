@@ -1,7 +1,7 @@
 # I'm Basher Mohammed (巴石)
 
-**Computer Science & Technology Student** at 西安石油大学 (Xi’an Shiyou University), China 🇨🇳  
-**Aspiring Backend Developer** | C# • .NET • SQL Server • ADO.NET • C++
+**Computer Science & Technology Student** at 西安石油大学 (Xi’an Shiyou University), China
+**Full Stack Desktop Application Developer||Backend Developer** | C# • .NET • SQL Server • ADO.NET • C++
 
 ---
 
@@ -12,7 +12,7 @@
 - 🏗️ Experienced with **Object-Oriented Programming (OOP)** and layered application architecture
 - 🗄️ Working with **SQL Server and ADO.NET** to build database-driven applications
 - 🌱 Strong foundation in **C++ Data Structures & Algorithms**
-- 🎯 Goal: Become a professional **Backend / Full-Stack Developer**
+- 🎯 Goal: Become a professional **Full-Stack Developer**
 
 ---
 
@@ -30,6 +30,7 @@
   - Windows Forms
   - OOP
   - ADO.NET
+  - Object-Oriented Programming
 
 - **SQL**
   - SQL Server
